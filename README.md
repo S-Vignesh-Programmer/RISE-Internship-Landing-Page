@@ -1,14 +1,117 @@
-# React + Vite
+# 🌟 SkillUp – Career Training Landing Page
 
+<<<<<<< HEAD
 Live Link: https://riseskillup.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+=======
+A responsive and visually appealing **Landing Page** for "SkillUp" – India’s leading professional training platform. This landing page is designed to attract users, showcase services, and encourage them to sign up for consultations.
+>>>>>>> 04f8ad7 (update recordings)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 Project Description
 
-## Expanding the ESLint configuration
+The landing page promotes SkillUp's career training programs and includes:
+- A bold headline and subtext to attract users
+- A **consultation form** for user lead capture
+- Call-to-action buttons like “Start Free Trial” and “Book Free Consultation”
+- Mobile responsive layout using **Flexbox** and **media queries**
+- Trust-building metrics (e.g., 50,000+ students, 100% job placement)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Optional for form interaction)
+- Tailwind CSS (or Vanilla CSS based on your project)
+- Responsive Web Design
+
+---
+
+## Screen Recordings
+![screen-record](./src/screen-record/record-intern.mp4)
+
+
+## 🖥️ Desktop View
+
+![Desktop View – SkillUp Landing Page](./src/screen-shots/desktop-view.png)
+
+---
+
+## 📱 Mobile View
+
+![Mobile View – SkillUp Landing Page](./src/screen-shots/mobile-view.png)
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/skillup-landing-page.git
+
+2. Navigate to the project folder:
+
+cd skillup-landing-page
+
+3. Open index.html in your browser or use Live Server in VS Code
+
+npm run dev
+
+**Features**
+
+Fully responsive landing layout
+Conversion-focused form section
+Eye-catching call-to-action buttons
+Clean and modern UI design
+Mobile-optimized navigation and layout
+
+**Folder Structure**
+
+skillup-landing-page/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── HeroSection.jsx
+│   │   ├── CTAForm.jsx
+│   │   └── Header.jsx
+│   ├── forms/
+│   │   └── ConsultationForm.jsx
+│   ├── layout/
+│   │   └── MainLayout.jsx
+│   ├── sections/
+│   │   ├── Home.jsx
+│   │   ├── Services.jsx
+│   │   └── Contact.jsx
+│   ├── ui/
+│   │   ├── Button.jsx
+│   │   ├── InputField.jsx
+│   │   └── Dropdown.jsx
+│   ├── data/
+│   │   └── servicesData.js
+│   ├── hooks/
+│   │   └── useFormValidation.js
+│   ├── App.js
+│   └── index.js
+├── screenshots/
+│   ├── skillup-desktop-view.png
+│   └── skillup-mobile-view.png
+├── tailwind.config.js (if used)
+├── package.json
+└── README.md
+
+
+**Author**
+
+Vignesh – Frontend Developer
+
+
+**License**
+
+This project was created as part of the RISE Internship 2025
+For educational and portfolio purposes only
+No commercial license attached.
