@@ -1,12 +1,10 @@
 # 🌟 SkillUp – Career Training Landing Page
 
-<<<<<<< HEAD
+
 Live Link: https://riseskillup.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 =======
 A responsive and visually appealing **Landing Page** for "SkillUp" – India’s leading professional training platform. This landing page is designed to attract users, showcase services, and encourage them to sign up for consultations.
->>>>>>> 04f8ad7 (update recordings)
 
 ---
 
@@ -27,6 +25,7 @@ The landing page promotes SkillUp's career training programs and includes:
 - CSS3
 - JavaScript (Optional for form interaction)
 - Tailwind CSS (or Vanilla CSS based on your project)
+- React js
 - Responsive Web Design
 
 ---
@@ -107,7 +106,8 @@ skillup-landing-page/
 
 **Author**
 
-Vignesh – Frontend Developer
+Vignesh – Java Full Stack Developer
+This project was created as part of the RISE Internship 2025
 
 
 **License**
