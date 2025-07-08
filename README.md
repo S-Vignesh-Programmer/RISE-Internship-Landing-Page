@@ -50,7 +50,7 @@ The landing page promotes SkillUp's career training programs and includes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/skillup-landing-page.git
+git clone https://github.com/S-Vignesh-Programmer/RISE-Internship-Landing-Page.git
 
 2. Navigate to the project folder:
 
